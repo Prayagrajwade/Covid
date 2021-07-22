@@ -29,6 +29,7 @@ body:before{
 .container{
 
     z-index: 1;
+    
     width : 70%;
     margin: 0 auto;
     border-radius: 24px;
@@ -62,6 +63,7 @@ img#flag{
     margin-bottom: 20px;
     border-radius: 6px;
     color: #fff;
+    height: 150px;
 }
 
 .card.a{
