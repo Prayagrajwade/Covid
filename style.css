@@ -49,3 +49,45 @@ body:before{
     margin: 0 0 30px;
     text-align: center;
 }
+
+img#flag{
+    height: 20px;
+    width: 20px;
+
+}
+.card{
+    width: 84%;
+    background: #ccc;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+    color: #fff;
+}
+
+.card.a{
+    background: #41a7ff;
+}
+.card.cr{
+    background: #ff3434;
+}
+.card.r{
+    background: #32b336;
+}
+.card.ca{
+    background: #d83f3f;
+}
+.card.d{
+    background: #ff0053;
+}
+.card.t{
+    background: #ffa501;
+}
+.card span{
+    font-size: 3rem;
+    font-weight: 700;
+    letter-spacing: 4px;
+} 
+
+.card i{
+    font-size: 3rem;
+}
